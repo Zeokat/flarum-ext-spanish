@@ -1,5 +1,5 @@
 # flarum-ext-spanish
-Spanish language for Flarum.
+Spanish language pack for Flarum.
 
 # Paquete de idioma Español para Flarum (es)
 
