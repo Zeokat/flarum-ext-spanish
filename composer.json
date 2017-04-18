@@ -1,0 +1,35 @@
+{
+    "name": "flarum/flarum-ext-spanish",
+    "type": "flarum-extension",
+    "description": "Spanish language pack.",
+    "keywords": ["locale"],
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^0.1.0-beta.6"
+    },
+    "authors": [
+        {
+            "name": "Zeokat Vozidea",
+            "email": "zeokat@gmail.com",
+            "github": "https://github.com/Zeokat/flarum-ext-spanish"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        },
+        "flarum-extension": {
+            "title": "Spanish",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#00247d",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        },
+        "flarum-locale": {
+            "code": "es",
+            "title": "Spanish"
+        }
+    }
+}
