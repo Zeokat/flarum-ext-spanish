@@ -116,7 +116,7 @@ core:
     # These translations are used in the navigation bar.
     nav:
       appearance_button: Apariencia
-      appearance_text: "Personalizar colores, logos y otras variables de su foro."
+      appearance_text: "Personalizar colores, logos y otras variables del foro."
       basics_button: Básicos
       basics_text: "Establecer el título del foro, el idioma y otros ajustes básicos."
       dashboard_button: Escritorio
