@@ -50,9 +50,9 @@ core:
     # These translations are used in the Dashboard page.
     dashboard:
       beta_warning_text: "Este <strong>software beta</strong> se proporciona principalmente para que usted pueda ayudarnos a probarlo y hacerlo mejor; no debe utilizarse en producción."
-      contributing_text: "¿Quiere buscar fallos y contribuir? Lea la <a>Documentación de Contribuidores</a>."
-      extension_text: "¿Interesado en desarrollar extensiones? Lea la <a>Documentación de Extensiones</a>."
-      features_text: "¿Tiene una idea para mejorar una característica? Cuéntenosla dentro de la <a>Etiqueta Características</a>."
+      contributing_text: "¿Quiere buscar fallos y contribuir? Lea la <a>Documentación de Colaboradores</a>."
+      extension_text: "¿Está interesado en desarrollar extensiones? Lea la <a>Documentación de Extensiones</a>."
+      features_text: "¿Tiene una idea para mejorar alguna característica? Cuéntenosla dentro de la <a>Etiqueta Características</a>."
       support_text: "¿Encontró un fallo? Por favor, repórtelo en el foro, dentro de la <a>Etiqueta Soporte</a>."
       troubleshooting_text: "¿Tiene problemas? Siga las instrucciones en <a>Documentación de Solución de Problemas</a>."
       version_text: "¡Gracias por probar Flarum! Está ejecutando la versión {version}."
