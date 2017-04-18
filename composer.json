@@ -1,5 +1,5 @@
 {
-    "name": "flarum/flarum-ext-spanish",
+    "name": "zeokat/flarum-ext-spanish",
     "type": "flarum-extension",
     "description": "Spanish language pack.",
     "keywords": ["locale"],
