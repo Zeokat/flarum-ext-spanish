@@ -15,7 +15,7 @@ flarum-subscriptions:
     # These translations are used by the discussion control buttons.
     discussion_controls:
       follow_button: => flarum-subscriptions.ref.follow
-      unfollow_button: Dejar de seguir
+      unfollow_button: No seguir
       unignore_button: Dejar de ignorar
 
     # These translations are used on the index page, peripheral to the discussion list.
