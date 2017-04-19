@@ -448,7 +448,7 @@ core:
     reset:
       confirm_password_label: => core.ref.confirm_password
       password_label: => core.ref.password
-      submit_button: Restablecer la contraseña
+      submit_button: Restablecer Contraseña
       title: => core.ref.reset_your_password
 
   # Translations in this namespace are used in messages output by the API.
