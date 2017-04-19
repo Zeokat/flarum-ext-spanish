@@ -16,14 +16,14 @@ core:
 
     # These translations are used in the Appearance page.
     appearance:
-      colored_header_label: Cabecera coloreada
+      colored_header_label: Cabecera Coloreada
       colors_heading: Colores
       colors_text: "Elija dos colores para decorar su foro. El primero será usado para resaltar y el segundo será utilizado para decorar elementos de fondo."
-      custom_header_heading: Cabecera personalizada
+      custom_header_heading: Cabecera Personalizada
       custom_header_text: "Agrega HTML para que aparezca en la parte superior de la página, encima del propio encabezado de Flarum"
-      custom_styles_heading: Estilos personalizados
+      custom_styles_heading: Estilos Personalizados
       custom_styles_text: "Personalice la apariencia de su foro añadiendo su propio código LESS/CSS, que se aplicará sobre los estilos por defecto de Flarum."
-      dark_mode_label: Modo oscuro
+      dark_mode_label: Modo Oscuro
       edit_css_button: Editar Estilos CSS Personalizados
       edit_header_button: Editar Cabecera Personalizada
       enter_hex_message: "Por favor, introduzca un código hexadecimal de color."
@@ -36,15 +36,15 @@ core:
     # These translations are used in the Basics page.
     basics:
       all_discussions_label: => core.ref.all_discussions
-      default_language_heading: Idioma predeterminado
-      forum_description_heading: Descripción del foro
+      default_language_heading: Idioma Predeterminado
+      forum_description_heading: Descripción del Foro
       forum_description_text: Introduzca una o dos frases cortas que describan su comunidad. Estas aparecerán en la etiqueta meta y se mostrarán en los buscadores.
-      forum_title_heading: Título del foro
-      home_page_heading: Página de inicio
+      forum_title_heading: Título del Foro
+      home_page_heading: Página de Inicio
       home_page_text: "Elija la página que los usuarios verán cuando visiten su foro. Si introduce un valor personalizado, use la ruta relativa a la raíz del foro."
       saved_message: Se han guardado los cambios.
       submit_button: => core.ref.save_changes
-      welcome_banner_heading: Mensaje de bienvenida
+      welcome_banner_heading: Mensaje de Bienvenida
       welcome_banner_text: Configure el texto que se muestra en la lista de discusiones. Utilícelo para dar la bienvenida a los invitados a su foro.
 
     # These translations are used in the Dashboard page.
@@ -62,7 +62,7 @@ core:
     edit_css:
       customize_text: "Personalice la apariencia de su foro añadiendo su propio código LESS/CSS que será aplicado sobre los <a>estilos por defecto</a> de Flarum."
       submit_button: => core.ref.save_changes
-      title: Editar CSS personalizado
+      title: Editar CSS Personalizado
 
     # These translations are used in the Edit Group modal dialog.
     edit_group:
@@ -75,7 +75,7 @@ core:
       plural_placeholder: Plural (p. ej. Moderadores)
       singular_placeholder: Singular (p. ej. Moderador)
       submit_button: => core.ref.save_changes
-      title: Crear grupo
+      title: Crear Grupo
 
     # These translations are used in the Edit Custom Header modal dialog.
     edit_header:
