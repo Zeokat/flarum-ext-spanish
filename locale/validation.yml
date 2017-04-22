@@ -58,7 +58,7 @@ validation:
   required_without_all: "El campo :attribute es requerido cuando ninguno de los :values están presentes."
   same: "El :attribute y :other deben coincidir."
   size:
-    numeric: "El :attribute de be ser :size."
+    numeric: "El :attribute debe ser :size."
     file: "El :attribute debe ser de :size kilobytes."
     string: "El :attribute debe tener :size caracteres."
     array: "El :attribute debe contener :size elementos."
