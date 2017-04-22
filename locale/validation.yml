@@ -39,7 +39,7 @@ validation:
     string: "El :attribute no puede ser mayor que :max characters."
     array: "El :attribute no tener más de :max elementos."
   mimes: "El :attribute debe ser un tipo de archivo: :values."
-  mimetypes: "El :attribute debe ser un archivo de tipo: :values."
+  mimetypes: "El :attribute debe ser un tipo de archivo: :values."
   min:
     numeric: "The :attribute must be at least :min."
     file: "The :attribute must be at least :min kilobytes."
