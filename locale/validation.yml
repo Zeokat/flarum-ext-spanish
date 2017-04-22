@@ -69,12 +69,12 @@ validation:
   url: "The :attribute format is invalid."
 
   attributes:
-    username: username
-    password: password
+    username: usuario
+    password: contraseña
     email: email
-    title: title
-    content: content
-    name_singular: singular name
-    name_plural: plural name
-    tag_count_primary: number of primary tags
-    tag_count_secondary: number of secondary tags
+    title: título
+    content: contenido
+    name_singular: nombre en singular
+    name_plural: nombre en plural
+    tag_count_primary: número de etiquetas principales
+    tag_count_secondary: número de etiquetas secundarias
