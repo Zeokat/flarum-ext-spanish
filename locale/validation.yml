@@ -55,18 +55,18 @@ validation:
   required_with: "El campo :attribute se requiere cuando :values está presente."
   required_with_all: "El campo :attribute se requiere cuando :values está presente."
   required_without: "El campo :attribute es requerido cuando :values no está presente."
-  required_without_all: "El :attribute campo es requerido cuando ninguno de los :values están presentes."
+  required_without_all: "El campo :attribute es requerido cuando ninguno de los :values están presentes."
   same: "El :attribute y :other deben coincidir."
   size:
-    numeric: "The :attribute must be :size."
-    file: "The :attribute must be :size kilobytes."
-    string: "The :attribute must be :size characters."
-    array: "The :attribute must contain :size items."
-  string: "The :attribute must be a string."
-  timezone: "The :attribute must be a valid zone."
-  unique: "The :attribute has already been taken."
-  uploaded: "The :attribute failed to upload."
-  url: "The :attribute format is invalid."
+    numeric: "El :attribute de be ser :size."
+    file: "El :attribute debe ser de :size kilobytes."
+    string: "El :attribute debe tener :size caracteres."
+    array: "El :attribute debe contener :size elementos."
+  string: "El :attribute debe ser una cadena de texto."
+  timezone: "El :attribute debe ser una zona válida."
+  unique: "El :attribute ya ha sido usado."
+  uploaded: "El :attribute no se pudo subir."
+  url: "El formato de :attribute es inválido."
 
   attributes:
     username: usuario
