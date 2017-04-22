@@ -36,8 +36,8 @@ validation:
   max:
     numeric: "El :attribute no puede ser mayor a :max."
     file: "El :attribute no puede ser mayor a :max kilobytes."
-    string: "El :attribute no puede ser mayor que :max characters."
-    array: "El :attribute no tener más de :max elementos."
+    string: "El :attribute no puede ser mayor de :max caracteres."
+    array: "El :attribute no puede tener más de :max elementos."
   mimes: "El :attribute debe ser un tipo de archivo: :values."
   mimetypes: "El :attribute debe ser un tipo de archivo: :values."
   min:
