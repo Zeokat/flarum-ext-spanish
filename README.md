@@ -13,6 +13,10 @@ Flarum usa composer para gestionar sus dependencias y extensiones, por lo que es
 
 Este mismo comando se puede emplear para actualizar de forma independiente el paquete de idioma Español.
 
+He decidido mantener el archivo [validation.yml](https://github.com/Zeokat/flarum-ext-spanish/blob/master/locale/validation.yml) en inglés ya que contiene los mensajes de error. Si en algún momento nos encontramos con un mensaje de error, siempre es más sencillo encontrar una solución en Google buscando el mensaje de error original, por este motivo voy a mantener este archivo en su idioma original.
+
+De todas formas facilito una versión del archivo [validation.yml en español](https://gist.github.com/Zeokat/e2465a8ef131f8bc49f041d0583b87fb), que no está incluido en el paquete de traducción. Os la facilito por si alguien quiere crearse su paquete de idioma personalizado con los mensajes de validación y de error, traducidos al español.
+
 
 # Flarum Spanish language pack (es)
 
